@@ -1,12 +1,12 @@
 # AnalyseNum-rique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FirasFekih/AnalyseNum-rique/main)
 
-##3 TPs Analyse numérique :
+## 3 TPs Analyse numérique :
 
-######TP1 :
+###### TP1 :
 >Introduction et Dichotomie
 
-######TP2 :
+###### TP2 :
 >Interpolation Numérique.
 
-######TP3 :
+###### TP3 :
 >Intégration numérique.
